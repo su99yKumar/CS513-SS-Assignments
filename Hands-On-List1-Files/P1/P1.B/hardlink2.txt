@@ -1,0 +1,2 @@
+Hello from hard link
+Modified through hardlink2
